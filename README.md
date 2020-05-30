@@ -1,0 +1,1 @@
+Access to the mini-blog : https://github.com/RemiMoustey/display-mini-blog-angular
